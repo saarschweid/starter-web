@@ -18,4 +18,4 @@ more to purpose
 
 ###Copyright 
 
-me
+me and someone else too
