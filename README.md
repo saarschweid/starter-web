@@ -15,3 +15,7 @@ more to purpose
 ## Deployment
 
 ## How to contribute
+
+###Copyright 
+
+me
