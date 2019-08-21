@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work.
 simple web site 
 
+Adding some more text
+
 ## Introduction
 
 intro
